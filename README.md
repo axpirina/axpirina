@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @axpirina
 - 👀 I’m interested in Arduino for industrial Automation
 - 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on Thingsboard
+- 💞️ I’m trying to run a project related to birds monitoring
 - 📫 How to reach me axpirina@oteitzalp.com
 
 <!---
